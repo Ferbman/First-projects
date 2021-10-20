@@ -33,4 +33,3 @@ elsif calculation == "/"
 else 
     puts "Invlaid process"
 end
-'a'.ord
